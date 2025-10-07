@@ -1,0 +1,65 @@
+Copyright (c) 2025 Jiawen Cheng
+All rights reserved.
+
+===========================================
+SOFTWARE LICENSE AGREEMENT (EVALUATION & RESEARCH USE)
+===========================================
+
+1. DEFINITIONS
+--------------
+"Software" refers to the binary library files, headers, documentation, and any
+related materials distributed as part of this package.
+
+"Licensee" refers to any individual or entity who downloads, installs, or uses
+the Software.
+
+2. GRANT OF LICENSE
+-------------------
+The Licensor hereby grants the Licensee a limited, non-exclusive, non-transferable,
+and royalty-free right to use the Software solely for:
+   • research, academic, educational, or internal evaluation purposes.
+
+Commercial use (including but not limited to inclusion in a commercial product,
+use to provide paid services, or any activity primarily intended for commercial
+advantage) is strictly prohibited without a separate written commercial license
+agreement from the Licensor.
+
+3. RESTRICTIONS
+---------------
+The Licensee shall not:
+   • reverse engineer, decompile, or disassemble the Software;
+   • modify, translate, or create derivative works of the Software;
+   • redistribute, sublicense, or repackage the Software in any form;
+   • use the Software for commercial or production purposes without written permission.
+
+4. INTELLECTUAL PROPERTY
+-------------------------
+All rights, title, and interest in and to the Software, including all
+intellectual property rights, are and shall remain the exclusive property
+of the Licensor. This Agreement does not grant any ownership rights.
+
+5. WARRANTY DISCLAIMER
+-----------------------
+THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+---------------------------
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DAMAGES (INCLUDING, WITHOUT
+LIMITATION, LOSS OF PROFITS, BUSINESS INTERRUPTION, OR LOSS OF INFORMATION)
+ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+7. COMMERCIAL LICENSING
+------------------------
+For commercial use or redistribution, please contact:
+   Jiawen Cheng
+   Email: crijew99@gmail.com
+
+8. GOVERNING LAW
+----------------
+This Agreement shall be governed by and construed in accordance with the laws
+of China, without regard to its conflict of law principles.
+
+------------------------------------------
+By downloading or using the Software, you agree to the above terms.
